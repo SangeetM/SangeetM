@@ -8,8 +8,8 @@ With my skills in data science and my thrive towards learning economics, I am ea
 
 - 🔭 I’m currently working on ...
       understanding the dynamics of a non-linear complex system using Dynamic Mode Decomposition (DMD) which is being researched upon by University of Washington (UoW) by Prof. Dr. Jonathan Kutz and Prof. Dr. Steve Brunton 
-- 🌱 I’m currently learning ... how to leverage Bayesian paradigm and how to leverage it in the context of Behavioral Economics!
-- 👯 I’m looking to collaborate on ... solving problem at scale and making data science accessible to all!
+- 🌱 I’m currently learning ... the Bayesian paradigm and how to leverage it in the context of Behavioral Economics!
+- 👯 I’m looking to collaborate on ... solving problem at scale and making data science accessible to all ... and maybe starting a YouTube Channel!
 - 🤔 I’m looking for help with ...
       any kind of multivariate time series forecasting and start-up ideas!
 - 💬 Ask me about ... 
